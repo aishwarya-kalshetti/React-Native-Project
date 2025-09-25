@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "AppointmentScheduler-Expo-TS",
-    "slug": "AppointmentScheduler-Expo-TS",
+    "name": "AppointmentScheduler",
+    "slug": "AppointmentScheduler",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,7 +22,7 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.aishwaryak13.AppointmentSchedulerExpoTS"
+      "package": "com.aishwaryak13.AppointmentScheduler"
     },
     "web": {
       "favicon": "./assets/favicon.png"
